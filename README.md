@@ -1,5 +1,5 @@
 # distributedSystem
-A distributed system can store,edit,query data on distributed servers. Multithreading and Socket Programming been used.
+A distributed system can store,edit,query data on distributed servers; Multithreading and Socket Programming been used.
 
 Setup Phase;
 
