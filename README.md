@@ -13,8 +13,8 @@ line-by-line
 
 Second input.txt, in this file there will be strings to store in descripted number on conf.txt file.
 
-And finally after configuration you can start non-coordinators
-java -cp . packageName.NonCoordinatorClassName 4444
+And finally after configuration you can start non-coordinatorswith: 
+"java -cp . packageName.NonCoordinatorClassName 4444"
 
-after that starting coordinator
-java -cp . packageName.CoordinatorClassName conf.txt
+after that starting coordinator with: 
+"java -cp . packageName.CoordinatorClassName conf.txt"
